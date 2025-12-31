@@ -1,0 +1,13 @@
+Name: Advaith Seetharaaman
+Email: advaith@example.com
+Phone: 9876543210
+
+Skills:
+Python, Machine Learning, NLP, SQL, JavaScript
+
+Education:
+B.Sc Computer Science
+
+Experience:
+Intern at ABC Technologies
+Worked on data analysis and ML models
